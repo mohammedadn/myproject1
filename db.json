@@ -1,0 +1,105 @@
+{
+    "vehicles": [
+      {
+        "id": 1,
+        "make": "Toyota",
+        "model": "Camry",
+        "year": 2019,
+        "color": "Red",
+        "price": "Ksh 25000",
+        "mileage": 30000,
+        "photo": "placeholder-url-for-photo"
+      },
+      {
+        "id": 2,
+        "make": "Honda",
+        "model": "Civic",
+        "year": 2018,
+        "color": "Blue",
+        "price": "Ksh 20000",
+        "mileage": 35000,
+        "photo": "placeholder-url-for-photo"
+      },
+      {
+        "id": 3,
+        "make": "Ford",
+        "model": "F-150",
+        "year": 2020,
+        "color": "Black",
+        "price": "Ksh 35000",
+        "mileage": 25000,
+        "photo": "placeholder-url-for-photo"
+      },
+      {
+        "id": 4,
+        "make": "Chevrolet",
+        "model": "Silverado",
+        "year": 2017,
+        "color": "White",
+        "price": "Ksh 30000",
+        "mileage": 40000,
+        "photo": "placeholder-url-for-photo"
+      },
+      {
+        "id": 5,
+        "make": "Jeep",
+        "model": "Wrangler",
+        "year": 2021,
+        "color": "Green",
+        "price": "Ksh 40000",
+        "mileage": 20000,
+        "photo": "placeholder-url-for-photo"
+      },
+      {
+        "id": 6,
+        "make": "Nissan",
+        "model": "Altima",
+        "year": 2016,
+        "color": "Silver",
+        "price": "Ksh 22000",
+        "mileage": 28000,
+        "photo": "placeholder-url-for-photo"
+      },
+      {
+        "id": 7,
+        "make": "BMW",
+        "model": "3 Series",
+        "year": 2019,
+        "color": "Gray",
+        "price": "Ksh 28000",
+        "mileage": 32000,
+        "photo": "placeholder-url-for-photo"
+      },
+      {
+        "id": 8,
+        "make": "Mercedes-Benz",
+        "model": "E-Class",
+        "year": 2020,
+        "color": "Black",
+        "price": "Ksh 38000",
+        "mileage": 18000,
+        "photo": "placeholder-url-for-photo"
+      },
+      {
+        "id": 9,
+        "make": "Audi",
+        "model": "A4",
+        "year": 2017,
+        "color": "Silver",
+        "price": "Ksh 29000",
+        "mileage": 25000,
+        "photo": "placeholder-url-for-photo"
+      },
+      {
+        "id": 10,
+        "make": "Volvo",
+        "model": "XC90",
+        "year": 2021,
+        "color": "White",
+        "price": "Ksh 42000",
+        "mileage": 15000,
+        "photo": "placeholder-url-for-photo"
+      }
+    ]
+  }
+  

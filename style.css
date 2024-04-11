@@ -88,5 +88,13 @@ nav{padding: 24px 0;
     width: 500px;
     border: 0;
     outline: none;
-    
+
+}
+
+button{
+    padding: 10px 28px;
+    margin-left: 18%;
+    background-color: yellow;
+    cursor: pointer;
+    border-radius: 8px;
 }

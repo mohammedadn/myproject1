@@ -1,7 +1,9 @@
-function getData(){
-    fetch("https://api.api-ninjas.com/v1/cars?limit=2&make=toyota",{
-        headers: { 'X-Api-Key': 'jPLNqpRuplsUcjW1P5dEQg==o0oK6spnw2wecCcQ'}
-    })
-    .then(res=>console.log(res.json()) )
-}
-getData()   
+fetch('http://localhost:3000/vehicles')
+  .then(response => response.json())
+  .then(data => {
+    console.log(data);
+
+    console.log('Fetched data:', data);
+  })
+  .catch(error => console.error('Error fetching data:', error));
+  
