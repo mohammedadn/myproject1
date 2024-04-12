@@ -3,12 +3,12 @@
       {
         "id": 1,
         "make": "Toyota",
-        "model": "Camry",
+        "model": "harrier",
         "year": 2019,
         "color": "Red",
-        "price": "Ksh 25000",
+        "price": "Ksh 2500000",
         "mileage": 30000,
-        "photo": "placeholder-url-for-photo"
+        "photo": "./assets/harrier.jpeg"
       },
       {
         "id": 2,
@@ -16,9 +16,9 @@
         "model": "Civic",
         "year": 2018,
         "color": "Blue",
-        "price": "Ksh 20000",
+        "price": "Ksh 2310000",
         "mileage": 35000,
-        "photo": "placeholder-url-for-photo"
+        "photo": "./assets/civic.jpeg"
       },
       {
         "id": 3,
@@ -26,9 +26,9 @@
         "model": "F-150",
         "year": 2020,
         "color": "Black",
-        "price": "Ksh 35000",
+        "price": "Ksh 10500000",
         "mileage": 25000,
-        "photo": "placeholder-url-for-photo"
+        "photo": "./assets/ford.jpeg"
       },
       {
         "id": 4,
@@ -36,9 +36,9 @@
         "model": "Silverado",
         "year": 2017,
         "color": "White",
-        "price": "Ksh 30000",
-        "mileage": 40000,
-        "photo": "placeholder-url-for-photo"
+        "price": "Ksh 6000000",
+        "mileage": 112000,
+        "photo": "./assets/chevy.jpeg"
       },
       {
         "id": 5,
@@ -46,9 +46,9 @@
         "model": "Wrangler",
         "year": 2021,
         "color": "Green",
-        "price": "Ksh 40000",
+        "price": "Ksh 14000000",
         "mileage": 20000,
-        "photo": "placeholder-url-for-photo"
+        "photo": "./assets/jeep.jpeg"
       },
       {
         "id": 6,
@@ -56,9 +56,9 @@
         "model": "Altima",
         "year": 2016,
         "color": "Silver",
-        "price": "Ksh 22000",
+        "price": "Ksh 2250000",
         "mileage": 28000,
-        "photo": "placeholder-url-for-photo"
+        "photo": "./assets/altima.jpeg"
       },
       {
         "id": 7,
@@ -66,9 +66,9 @@
         "model": "3 Series",
         "year": 2019,
         "color": "Gray",
-        "price": "Ksh 28000",
+        "price": "Ksh 2800000",
         "mileage": 32000,
-        "photo": "placeholder-url-for-photo"
+        "photo": "./assets/bmw.jpeg"
       },
       {
         "id": 8,
@@ -76,19 +76,19 @@
         "model": "E-Class",
         "year": 2020,
         "color": "Black",
-        "price": "Ksh 38000",
+        "price": "Ksh 3800000",
         "mileage": 18000,
-        "photo": "placeholder-url-for-photo"
+        "photo": "./assets/merc.jpeg"
       },
       {
         "id": 9,
-        "make": "Audi",
-        "model": "A4",
+        "make": "Mercedes-Benz",
+        "model": "Gwagon",
         "year": 2017,
         "color": "Silver",
-        "price": "Ksh 29000",
+        "price": "Ksh 29000000",
         "mileage": 25000,
-        "photo": "placeholder-url-for-photo"
+        "photo": "./assets/gwagon.jpeg"
       },
       {
         "id": 10,
@@ -96,9 +96,9 @@
         "model": "XC90",
         "year": 2021,
         "color": "White",
-        "price": "Ksh 42000",
+        "price": "Ksh 4200000",
         "mileage": 15000,
-        "photo": "placeholder-url-for-photo"
+        "photo": "./assets/volvo.jpeg"
       }
     ]
   }
