@@ -5,7 +5,7 @@ fetch('http://localhost:3000/vehicles')
   .then(data => {
   data.forEach(vehicle =>{
    
-    const div = document.createElement("div");
+    const div = document.createEl]ement("div");
     div.className = "automade";
     div.innerHTML = `
     <img src="${vehicle.photo}"/>
