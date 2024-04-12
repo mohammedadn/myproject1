@@ -150,3 +150,19 @@ margin-left: 0%;
     font-size: large;
     border-radius: 5px;
 }
+
+.box{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+    background-color: #fff;
+    width: 100%;
+    margin: 0 auto;
+    border-radius: 6px;
+    padding: 8px;
+    margin-top: 10px;
+    position: absolute;
+    z-index: -1;
+}
