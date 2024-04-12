@@ -1,5 +1,5 @@
 const cars = document.getElementById("cars");
-const containa = document.getElementsByClassName("containa");
+// const containa = document.getElementsByClassName("containa");
 fetch('http://localhost:3000/vehicles')
   .then(response => response.json())
   .then(data => {
@@ -30,9 +30,21 @@ fetch('http://localhost:3000/vehicles')
     
   })
 
-  function scrollToAbout(){
-    containa.addEventListener("onclick", () => {
-  })}
 
+function scrollToSection(sectionId) {
+  const section = document.getElementById("containa");
+  if (section) {
+    section.scrollIntoView({ behavior: 'smooth' });
+  }
+}
 
+document.addEventListener('DOMContentLoaded', function() {
+  const scrollButton = document.getElementById('scroll');
+
+  if (scrollButton) {
+    scrollButton.addEventListener('click', function() {
+      scrollToSection('targetSection');
+    });
+  }
+});
 
