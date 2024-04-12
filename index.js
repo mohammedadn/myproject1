@@ -1,5 +1,5 @@
 const cars = document.getElementById("cars");
-
+const containa = document.getElementsByClassName("containa");
 fetch('http://localhost:3000/vehicles')
   .then(response => response.json())
   .then(data => {
@@ -29,6 +29,10 @@ fetch('http://localhost:3000/vehicles')
   press.addEventListener("click", () => {
     
   })
+
+  function scrollToAbout(){
+    containa.addEventListener("onclick", () => {
+  })}
 
 
 
