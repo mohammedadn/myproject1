@@ -98,15 +98,4 @@ document.addEventListener('DOMContentLoaded', function() {
   }
 });
 
-// Function to handle form submission
-function submitForm(car) {
-  const submitForm = document.getElementById(`F${car.id}`);
-  // Adding submit event listener to the form
-  submitForm.addEventListener('submit', (event) => {
-    event.preventDefault(); // Preventing default form submission behavior
-    // Displaying thank you message
-    alert(`Thank you for your interest in this ${car.make} ${car.model}! You will be contacted by one of our elite agents.`);
-    // Removing the form from the DOM
-    document.getElementById(`F${car.id}`).remove();
-  });
-}
+
