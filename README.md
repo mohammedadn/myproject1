@@ -17,8 +17,8 @@ Github account
 ```
 https://github.com/mohammedadn/myproject1```
 
-# Live Link
-[Git](gh-pages link)
+## Live Link
+https://myproject1-psi.vercel.app/
 
 ## Technologies used
 
