@@ -2,7 +2,7 @@
 const cars = document.getElementById("cars");
 
 // Fetching vehicle data from the server
-fetch('http://localhost:3000/vehicles')
+fetch('https://json-server-zrvf.onrender.com/vehicles')
   .then(response => response.json()) // Converting response to JSON
   .then(data => {
    
